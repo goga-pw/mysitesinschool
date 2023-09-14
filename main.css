@@ -1,0 +1,16 @@
+.main_text {
+  color: red;
+  text-align: center;
+  font-size: 20px;
+  scale: 60%;
+}
+p {
+  color:  black;
+  text-align: center;
+  font-size: 20px;
+  scale: 110%;
+}
+body {  
+   background: rgb(0,36,28);
+background: radial-gradient(circle, rgba(0,36,28,1) 0%, rgba(85,9,121,0.5592437658657212) 57%, rgba(0,255,203,0.7049020291710435) 100%); 
+}
